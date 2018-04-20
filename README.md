@@ -1,5 +1,5 @@
 # Convert-Flows
-Automatically convert your Node-RED flow-file to use oliverraner's https://github.com/oliverrahner/node-red-contrib-homekit-bridged fork instead of the original https://github.com/mschm/node-red-contrib-homekit version.
+Automatically convert your Node-RED flow-file to use oliverrahner's https://github.com/oliverrahner/node-red-contrib-homekit-bridged fork instead of the original https://github.com/mschm/node-red-contrib-homekit version.
 
 
 Backup is your friend!
